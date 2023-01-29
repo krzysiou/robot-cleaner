@@ -1,5 +1,7 @@
 #provide an array of strings where . means empty space and x means object eg. R = ["..X.X", "...X.", "X...X"]
 
+print(1)
+
 class RobotCleaner:
     def __init__(self):
         #position based on coordinates
